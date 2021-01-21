@@ -1,5 +1,7 @@
 # 被收费绘图工具 PUA 了怎么办？来看看这个老实工具吧
 
+> 本文非常适合 Electron 入门选手，墙裂推荐！
+
 ![1](images/1.jpg)
 
 <p align="center">本文作者：HelloGitHub-<strong>蔡文心</strong></p>
